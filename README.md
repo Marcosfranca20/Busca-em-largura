@@ -1,2 +1,3 @@
 # Busca-em-largura
-Projeto criado no terceiro ano do curso de Ciência da computação
+
+Projeto criado com o instituito de realizar a busca em largura de um nó no colab
